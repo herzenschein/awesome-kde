@@ -22,6 +22,8 @@
 
 ### Internet & Networking
 
+#### Browsers & Integration
+
 - [Falkon](https://www.falkon.org/) - QtWebEngine based cross-platform web browser 📌.
 - [Konqueror](https://konqueror.org/) - Uses the KHTML rendering engine (and optionally Webkit) so it supports the latest web standards such as HTML5, JavaScript, CSS3, and others 📌.
 - [Qt WebBrowser](http://doc.qt.io/QtWebBrowser/) - Qt WebBrowser is a browser for embedded devices developed using the capabilities of Qt and Qt WebEngine.
@@ -30,19 +32,29 @@
 - [KGet](https://www.kde.org/applications/internet/kget/) - A versatile and user-friendly download manager 📌.
 - [KTorrent](https://www.kde.org/applications/internet/ktorrent/) - A BitTorrent application which allows you to download files using the BitTorrent protocol 📌.
 - [qBittorrent](https://www.qbittorrent.org/) - An advanced BitTorrent client programmed in C++, based on Qt toolkit and libtorrent-rasterbar.
+- [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
+
+#### Chat clients
+
+- [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
+- [Neochat](dbus-launch dolphin -qwindowtitle "%c" "%u") - A fast and user-friendly Matrix client made in Kirigami 📌.
+- [Tok](https://invent.kde.org/network/tok) - An elegant Telegram client made in Kirigami 📌.
+- [Tokodon](https://invent.kde.org/network/tokodon) - A Mastodon client for Plasma and Plasma Mobile 📌.
+- [Ruqola](https://apps.kde.org/ruqola/) - A client for Rocket.Chat made in QML 📌.
+
+#### Email & Suites
+
 - [KMail](https://apps.kde.org/en/kmail2) - KMail is the email component of Kontact, the integrated personal information manager from KDE 📌.
+- [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
+- [Trojitá](https://apps.kde.org/trojita/) - A multiplatform email client that prioritizes efficiency, speed and open standards 📌.
+
+#### Remote connection
+
 - [KDE Connect](https://kdeconnect.kde.org/) - A project to communicate across all your devices: receive your phone notifications on your desktop computer, control your desktop from your phone, etc 📌.
 - [GSConnect](https://extensions.gnome.org/extension/1319/gsconnect/) - A complete implementation of KDE Connect especially for GNOME Shell with Nautilus, Chrome and Firefox integration.
-- [Plasma-browser-integration](https://userbase.kde.org/Plasma-browser-integration) - A suite of new features which make [Firefox](https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/), [Chrome](https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai) and Chromium-based browsers work with your desktop 📌.
 - [KRDC](https://www.kde.org/applications/internet/krdc/) - A client application that allows you to view or control a desktop session on another machine that is running a compatible server (VNC & RDP) 📌.
-- [Konversation](https://konversation.kde.org/) - A user-friendly Internet Relay Chat (IRC) client built on the KDE Platform 📌.
-- [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
-- [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
+- [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the backend NetworkManager software 📌.
 - [Smb4K](https://apps.kde.org/en/smb4k) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
-- [Neochat](dbus-launch dolphin -qwindowtitle "%c" "%u") - A fast and user-friendly Matrix client made in Kirigami 📌.
-- [Ruqola](https://apps.kde.org/ruqola/) - A client for Rocket.Chat made in QML 📌.
-- [Plasmatube](https://apps.kde.org/plasmatube/) - A YouTube client with an elegant user interface 📌.
-- [Trojitá](https://apps.kde.org/trojita/) - A multiplatform email client that prioritizes efficiency, speed and open standards 📌.
 
 ### Graphics & Imaging
 
@@ -57,11 +69,13 @@
 ### Multimedia
 
 - [Amarok](https://amarok.kde.org/) - Amarok is a powerful music player for Linux, Unix and Windows with an intuitive interface 📌.
-- [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework.
+- [Kdenlive](https://www.kdenlive.org/) - A non-linear video editor for Linux using the MLT video framework 📌.
 - [SMPlayer](https://www.smplayer.info/) - Media player with built-in codecs that can play virtually all video and audio formats.
 - [Elisa](https://community.kde.org/Elisa) - A music player developed by the KDE community that strives to be simple and nice to use 📌.
 - [KMix](https://kde.org/applications/multimedia/org.kde.kmix) - A sound channel mixer and volume control 📌.
 - [KWave](https://apps.kde.org/en/kwave) - A sound editor built on the KDE Frameworks 5 📌.
+- [Plasmatube](https://apps.kde.org/plasmatube/) - A YouTube client with an elegant user interface 📌.
+- [Haruna](https://invent.kde.org/multimedia/haruna) - Video player with mouse controls made in Kirigami and based on MPV 📌.
 
 ### Office & Productivity
 
@@ -177,7 +191,7 @@ Rounds the corners of your windows.
 - [Bibata](https://store.kde.org/p/1197198/) - Material Based Cursor Theme.
 - [Capitaine](https://github.com/keeferrourke/capitaine-cursors) - An x-cursor theme inspired by macOS and based on KDE Breeze.
 
-#### Scripts
+#### KWin Scripts
 
 - [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
 - [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
@@ -207,6 +221,9 @@ Rounds the corners of your windows.
 
 ## Communities
 
+- [Matrix](https://community.kde.org/Matrix) - Official Matrix channels and the recommended infrastructure 📌.
+- [Telegram](https://community.kde.org/Telegram) - Telegram bridges for official channels 📌.
+- [IRC](https://userbase.kde.org/IRC_Channels) - IRC channels bridged to Matrix 📌.
 - [Kreddit](https://www.reddit.com/r/kde/) - KDE Community on Reddit.
 - [KDE Store](https://store.kde.org/) - Official KDE Store for developers to share Plasma customizations 📌.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - Questions tagged with `kde`.
