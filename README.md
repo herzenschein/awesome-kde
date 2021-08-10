@@ -39,6 +39,10 @@
 - [Akregator](https://www.kde.org/applications/internet/akregator/) - Enables you to follow news sites, blogs and other RSS/Atom-enabled websites 📌.
 - [KNetworkManager](https://userbase.kde.org/KNetworkManager) - A KDE client for the back end NetworkManager software 📌.
 - [Smb4K](https://apps.kde.org/en/smb4k) - Advanced Network Neighborhood Browser and Samba Share Mounting Utility 📌.
+- [Neochat](dbus-launch dolphin -qwindowtitle "%c" "%u") - A fast and user-friendly Matrix client made in Kirigami 📌.
+- [Ruqola](https://apps.kde.org/ruqola/) - A client for Rocket.Chat made in QML 📌.
+- [Plasmatube](https://apps.kde.org/plasmatube/) - A YouTube client with an elegant user interface 📌.
+- [Trojitá](https://apps.kde.org/trojita/) - A multiplatform email client that prioritizes efficiency, speed and open standards 📌.
 
 ### Graphics & Imaging
 
